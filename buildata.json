@@ -1,0 +1,20 @@
+{
+	"id": "sa-mobile-sdk-agegate-ios",
+	"theme": {
+		"folder": "themes",
+		"res": "themeres",
+		"name": "satheme",
+		"color": "256EFF"
+	},
+	"project": {
+		"name": "iOS Age Gate SDK",
+		"author": "Gabriel Coman",
+		"source": "https://github.com/SuperAwesomeLTD/sa-mobile-sdk-agegate-ios",
+		"domain": "",
+		"min": "iOS 8.0+, Android 4.0+"
+	},
+	"company": {
+		"name": "2016, SuperAwesome Ltd",
+		"support": "devsupport@superawesome.tv"
+	}
+}
